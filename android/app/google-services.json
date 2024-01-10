@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722334122608",
+    "project_id": "smartmath-b273b",
+    "storage_bucket": "smartmath-b273b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722334122608:android:de2204bdbd6f35d722aab5",
+        "android_client_info": {
+          "package_name": "com.example.smart_math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722334122608-b0jsnp14sqi5t5vsm2v99fausss5n2kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-2osgimPwB_l2KqYdF0sSamxNZMazEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722334122608-b0jsnp14sqi5t5vsm2v99fausss5n2kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
